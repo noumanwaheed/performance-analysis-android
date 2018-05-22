@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to Performance Analysis App
 
-You can use the [editor on GitHub](https://github.com/noumanwaheed/performance-analysis-android/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- An application design to measure mobile battery performance by executing some pre calculated tasks along with timer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Information
 
 ```markdown
-Syntax highlighted code block
+Technologies that have been used while developing the project.
+- Android (Java, XML)
 
-# Header 1
-## Header 2
-### Header 3
+### Note
+I developed this project when i was entitled as Software Engineer in **Ainosoft Technologies**.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Website](https://www.stockholder.no)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For developer's portfolio visit [Official Website](https://noumanwaheed.com).
 
-### Jekyll Themes
+### Contact
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/noumanwaheed/performance-analysis-android/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Want to contact the developer? [contact](https://noumanwaheed.com).
